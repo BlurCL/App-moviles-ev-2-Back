@@ -1,0 +1,6 @@
+com\Pasteleria\Pasteleria\repository\ProductoRepository.class
+com\Pasteleria\Pasteleria\service\ProductoService.class
+com\Pasteleria\Pasteleria\controller\ProductoController.class
+com\Pasteleria\Pasteleria\model\Producto.class
+com\Pasteleria\Pasteleria\PasteleriaApplication.class
+com\Pasteleria\Pasteleria\config\SwaggerConfig.class
