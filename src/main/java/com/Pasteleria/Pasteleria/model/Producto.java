@@ -18,4 +18,6 @@ public class Producto {
     private String categoria;
     private String nombre;
     private BigDecimal precio;
+    private String urlImagen;
+    
 }
